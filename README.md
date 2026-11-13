@@ -49,16 +49,11 @@ Alongside consulting, I build and maintain my own applications. **Voltura Air is
   </tr>
 </table>
 
-### Voltura Vault
-
-A self-hosted password manager for logins, notes, SSH keys, and files. It encrypts items and attachments on your device before syncing and supports Bitwarden imports.
-
-[Product site](https://voltura-vault.voltura.se/) · [Source](https://github.com/voltura/voltura-vault) · [Desktop alpha](https://github.com/voltura/voltura-vault/releases/tag/v0.1.0-alpha.2)
-
 ### More from Voltura
 
 | Project | What it does |
 | :--- | :--- |
+| [Voltura Vault](https://github.com/voltura/voltura-vault) | A self-hosted password manager with on-device encryption and Bitwarden import. Public alpha. |
 | [Markdown](https://github.com/voltura/voltura-markdown) | A compact Windows Markdown reader and editor with live preview. |
 | [WeekNumber](https://github.com/voltura/voltura-weeknumber) | Week numbers, a calendar, and date tools beside the Windows clock. |
 | [Earner](https://github.com/voltura/voltura-earner) | Work hours, earnings, overtime, and Excel reports. |
