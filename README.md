@@ -55,10 +55,10 @@ Alongside consulting, I build and maintain my own applications. **Voltura Air is
 | :--- | :--- |
 | [Voltura Vault](https://github.com/voltura/voltura-vault) | A self-hosted password manager with on-device encryption and Bitwarden import. Public alpha. |
 | [Voltura Reel Player](https://github.com/voltura/voltura-reels) | A Chrome extension for fullscreen Facebook Reels with speed controls, looping, and zoom. [Website](https://reels.voltura.se/) · [Video demo](https://youtu.be/zZZpDCErexY) |
-| [Markdown](https://github.com/voltura/voltura-markdown) | A compact Windows Markdown reader and editor with live preview. |
-| [WeekNumber](https://github.com/voltura/voltura-weeknumber) | Week numbers, a calendar, and date tools beside the Windows clock. |
-| [Earner](https://github.com/voltura/voltura-earner) | Work hours, earnings, overtime, and Excel reports. |
-| [Books](https://github.com/voltura/voltura-books) | Browse and read books and documents, and send books to Kindle. |
+| [Voltura Markdown](https://github.com/voltura/voltura-markdown) | A compact Windows Markdown reader and editor with live preview. |
+| [Voltura WeekNumber](https://github.com/voltura/voltura-weeknumber) | Week numbers, a calendar, and date tools beside the Windows clock. |
+| [Voltura Earner](https://github.com/voltura/voltura-earner) | Work hours, earnings, overtime, and Excel reports. |
+| [Voltura Books](https://github.com/voltura/voltura-books) | Browse and read books and documents, and send books to Kindle. |
 
 [Browse all public repositories](https://github.com/voltura?tab=repositories)
 
