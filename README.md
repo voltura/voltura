@@ -1,5 +1,5 @@
 <a href="https://voltura.se/">
-  <img src="assets/profile-banner.svg" alt="Joakim Skoglund — senior fullstack developer. C# / .NET · React / TypeScript. Voltura AB, Stockholm." width="1200">
+  <img src="assets/profile-banner.svg" alt="Joakim Skoglund — senior full stack developer. C# / .NET · React / TypeScript. Voltura AB, Stockholm." width="1200">
 </a>
 
 **Independent consultant at Voltura AB · Stockholm, Sweden**

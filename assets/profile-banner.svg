@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
-  <title>Joakim Skoglund — senior fullstack developer</title>
+  <title>Joakim Skoglund — senior full stack developer</title>
   <desc>C# / .NET and React / TypeScript. Independent consultant at Voltura AB in Stockholm.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="340" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
@@ -20,7 +20,7 @@
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
     <text x="68" y="70" fill="#c9d5da" font-size="20" letter-spacing="3">VOLTURA AB · STOCKHOLM</text>
     <text x="48" y="152" fill="#f1f6f4" font-size="54" font-weight="600">Joakim Skoglund</text>
-    <text x="48" y="216" fill="#94efd2" font-size="38" font-weight="600">Senior fullstack developer.</text>
+    <text x="48" y="216" fill="#94efd2" font-size="38" font-weight="600">Senior full stack developer.</text>
     <text x="48" y="281" fill="#c9d5da" font-size="25">C# / .NET · React / TypeScript</text>
     <text x="1148" y="290" fill="#94efd2" font-size="22" text-anchor="end">voltura.se</text>
   </g>
